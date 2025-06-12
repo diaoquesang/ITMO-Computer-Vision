@@ -11,7 +11,7 @@
 
 [![](https://img.shields.io/github/stars/diaoquesang/ITMO-Computer-Vision)](https://github.com/diaoquesang/ITMO-Computer-Vision) 
 [![](https://img.shields.io/github/forks/diaoquesang/ITMO-Computer-Vision)](https://github.com/diaoquesang/ITMO-Computer-Vision) 
-[![](https://img.shields.io/github/issues/diaoquesang/ITMO-Computer-Vision)](https://github.com/diaoquesang/ITMO-Computer-System-DesignVision/issues) 
+[![](https://img.shields.io/github/issues/diaoquesang/ITMO-Computer-Vision)](https://github.com/diaoquesang/ITMO-Computer-Vision/issues) 
 [![](https://img.shields.io/github/license/diaoquesang/ITMO-Computer-Vision)](https://github.com/diaoquesang/ITMO-Computer-Vision/blob/main/LICENSE) 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FITMO-Computer-Vision&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdiaoquesang%2FITMO-Computer-Vision)
 

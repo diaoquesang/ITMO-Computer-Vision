@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/80fd8284-e410-4763-a558-e45f79c02eb2)# \[Computer Science\] Computer Vision, ITMO University, Hangzhou, 2025
+# \[Computer Science\] Computer Vision, ITMO University, Hangzhou, 2025
 
 ![](https://github.com/user-attachments/assets/60c5cd5a-0455-4486-a44e-48398db58f3b)
   

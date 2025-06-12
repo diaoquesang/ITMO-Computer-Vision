@@ -5,7 +5,7 @@
 
 
 
-## 🤩 Welcome to the Computer System Design course at ITMO University! 
+## 🤩 Welcome to the Computer Vision course at ITMO University! 
 
 <div align="center">
 

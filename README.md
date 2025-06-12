@@ -31,6 +31,10 @@
 10. [Neural Networks and Deep Learning](https://github.com/diaoquesang/ITMO-Computer-Vision/blob/main/Lectures/13-14%20Neural%20Networks%20and%20Deep%20Learning.pdf)
 11. [Convolutional Neural Networks](https://github.com/diaoquesang/ITMO-Computer-Vision/blob/main/Lectures/15-16%20CNN.pdf)
 
-
+> If you have any questions or suggestions during the learning process, you can contact us through the following ways:
+> 
+> 📧 Email: diaoquesang@gmail.com
+> 
+> ❓ GitHub Issues: https://github.com/diaoquesang/ITMO-Computer-Vision/issues
 
 

@@ -17,6 +17,16 @@
 
 </div>
 
+# Sample Page
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/6162b3b6-d88c-4db4-a023-70d476361e0d" alt="image" style="width: 32%;">
+<img src="https://github.com/user-attachments/assets/4114ddf9-3e62-4f3d-9a94-96e91e2cfe00" alt="image" style="width: 32%;">
+<img src="https://github.com/user-attachments/assets/3f691fd3-3d50-498a-bd84-116cee0a6125" alt="image" style="width: 32%;">
+
+</div>
+
 # Contents
 
 1. [Introduction | Segmentation](https://github.com/diaoquesang/ITMO-Computer-Vision/blob/main/Lectures/01-02%20Introduction%20to%20CV%20and%20Segmentation.pdf)
@@ -30,6 +40,12 @@
 9. [Images Search](https://github.com/diaoquesang/ITMO-Computer-Vision/blob/main/Lectures/12%20Images%20Searching.pdf)
 10. [Neural Networks and Deep Learning](https://github.com/diaoquesang/ITMO-Computer-Vision/blob/main/Lectures/13-14%20Neural%20Networks%20and%20Deep%20Learning.pdf)
 11. [Convolutional Neural Networks](https://github.com/diaoquesang/ITMO-Computer-Vision/blob/main/Lectures/15-16%20CNN.pdf)
+
+
+# Course List
+
+1. [\[Computer Science\] Computer System Design, ITMO University, Hangzhou, 2025](https://github.com/diaoquesang/ITMO-Computer-System-Design/)
+2. [\[Computer Science\] Computer Vision, ITMO University, Hangzhou, 2025](https://github.com/diaoquesang/ITMO-Computer-Vision/) ⬅️
 
 > If you have any questions or suggestions during the learning process, you can contact us through the following ways:
 > 

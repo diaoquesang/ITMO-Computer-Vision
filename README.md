@@ -1,4 +1,4 @@
-# \[Computer Science\] Computer Vision, ITMO University, Hangzhou, 2025
+![image](https://github.com/user-attachments/assets/80fd8284-e410-4763-a558-e45f79c02eb2)# \[Computer Science\] Computer Vision, ITMO University, Hangzhou, 2025
 
 ![](https://github.com/user-attachments/assets/60c5cd5a-0455-4486-a44e-48398db58f3b)
   
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/6162b3b6-d88c-4db4-a023-70d476361e0d" alt="image" style="width: 32%;">
-<img src="https://github.com/user-attachments/assets/4114ddf9-3e62-4f3d-9a94-96e91e2cfe00" alt="image" style="width: 32%;">
-<img src="https://github.com/user-attachments/assets/3f691fd3-3d50-498a-bd84-116cee0a6125" alt="image" style="width: 32%;">
+<img src="https://github.com/user-attachments/assets/ddb19c94-a617-4732-85bc-99aef89df3d0" alt="image" style="width: 32%;">
+<img src="https://github.com/user-attachments/assets/21f4c515-7222-42b1-ab82-4d8c173039e2" alt="image" style="width: 32%;">
+<img src="https://github.com/user-attachments/assets/f8d3cb6a-0628-44de-ab91-9d766bd0a643" alt="image" style="width: 32%;">
 
 </div>
 
